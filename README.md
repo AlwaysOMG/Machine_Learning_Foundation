@@ -9,10 +9,10 @@ This is a course from NTU-Coursera, teached by Hsuan-Tien Lin.
     - 結合機器學習中哲學的思想、數學的工具、演算法的設計、實際的應用
 - 四大主題
     - When Can Machines Learn?
-        - The Learning Problem
-        - Learning to Answer Yes/No
-        - Types of Learning
-        - Feasibility of Learning
+        - [The Learning Problem](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#the-learning-problem)
+        - [Learning to Answer Yes/No](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#Learning-to-Answer-YesNo)
+        - [Types of Learning](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#Types-of-Learning)
+        - [Feasibility of Learning](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#Feasibility-of-Learning)
     - Why Can Machines Learn?
         - Training versus Testing
         - Theory of Generalization
