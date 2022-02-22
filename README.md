@@ -2,21 +2,21 @@
 This is a course from NTU-Coursera, teached by Hsuan-Tien Lin.
 
 ## Course Introduction
-- ¾÷¾¹¾Ç²ß¬O¤@­Ó²z½×»P¹ê°Èµ²¦Xªº¤@ªù¾Ç°İ
-    - ²z½×¾É¦V¡G²`¤J¤¶²Ğ¾÷¾¹¾Ç²ß²z½×¤§°²³]¡B±À½×¡Bµ²½×
-    - ¹ê°È¾É¦V¡G§Ö³t¤¶²Ğ¦U¦¡¦U¼Ë¾÷¾¹¾Ç²ß§Ş³N¤§À³¥Î
-- °òÂ¦¾É¦V¤§¾÷¾¹¾Ç²ß½Òµ{
-    - µ²¦X¾÷¾¹¾Ç²ß¤¤­õ¾Çªº«ä·Q¡B¼Æ¾Çªº¤u¨ã¡Bºtºâªkªº³]­p¡B¹ê»ÚªºÀ³¥Î
-- ¥|¤j¥DÃD
+- æ©Ÿå™¨å­¸ç¿’æ˜¯ä¸€å€‹ç†è«–èˆ‡å¯¦å‹™çµåˆçš„ä¸€é–€å­¸å•
+    - ç†è«–å°å‘ï¼šæ·±å…¥ä»‹ç´¹æ©Ÿå™¨å­¸ç¿’ç†è«–ä¹‹å‡è¨­ã€æ¨è«–å’Œçµè«–
+    - å¯¦å‹™å°å‘ï¼šå¿«é€Ÿä»‹ç´¹å„å¼å„æ¨£æ©Ÿå™¨å­¸ç¿’æŠ€è¡“ä¹‹æ‡‰ç”¨
+- è©²èª²ç‚ºåŸºç¤å°å‘ä¹‹æ©Ÿå™¨å­¸ç¿’èª²ç¨‹
+    - çµåˆæ©Ÿå™¨å­¸ç¿’ä¸­å“²å­¸çš„æ€æƒ³ã€æ•¸å­¸çš„å·¥å…·ã€æ¼”ç®—æ³•çš„è¨­è¨ˆã€å¯¦éš›çš„æ‡‰ç”¨
+- å››å¤§ä¸»é¡Œ
     - When Can Machines Learn?
         - [The Learning Problem](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#the-learning-problem)
         - [Learning to Answer Yes/No](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#Learning-to-Answer-YesNo)
         - [Types of Learning](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#Types-of-Learning)
         - [Feasibility of Learning](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#Feasibility-of-Learning)
     - Why Can Machines Learn?
-        - Training versus Testing
-        - Theory of Generalization
-        - The VC Dimension
-        - Noise and Error
+        - [Training versus Testing](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#Training-versus-Testing)
+        - [Theory of Generalization](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#Theory-of-Generalization)
+        - [The VC Dimension](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#The-VC-Dimension)
+        - [Noise and Error](https://hackmd.io/sjrJL_7GTSCS3Ormt-aCZA?both#Noise-and-Error)
     - How Can Machines Learn?
     - How Can Machines Learn Better?
